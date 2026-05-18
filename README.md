@@ -12,13 +12,14 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ## Algorithm
 
 
-1. Import the required libraries and load the employee salary dataset using Pandas.
-2. 
-3. Preprocess the dataset by separating input features and target salary values, and convert categorical data into numerical format.
-4. 
-5. Create and train the Decision Tree Regressor model using the dataset.
-6. 
-7. Predict the employee salary using the trained model and display the performance metrics and decision tree visualization.
+1. Import the required libraries and load the employee salary dataset using Pandas. 
+
+2. Preprocess the dataset by separating input features and target salary values, and convert categorical data into numerical format. 
+
+3. Create and train the Decision Tree Regressor model using the dataset.
+
+4. Predict the employee salary using the trained model and display the performance metrics and decision tree visualization.
+
 
 ## Program:
 ```
